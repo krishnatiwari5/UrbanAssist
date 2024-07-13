@@ -1,0 +1,55 @@
+.tripbarcon {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* border-top: 3px solid var(--main-web-color); */
+    border-bottom: 3px solid var(--main-web-color);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.tripbarcon h3 {
+   font-size: 1.3rem;
+   margin-bottom: 0;
+   /* border-top: 2px solid var(--main-web-color); */
+   border-bottom: 2px solid var(--main-web-color);
+   padding: 5px;
+
+}
+
+.tripbar {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 10px;
+
+    padding: 30px;
+    width: 80%;
+    /* background-color: red; */
+    color: grey;
+    border-radius: 10px;
+}
+
+.tripbarblock {
+    border: 2px solid var(--main-web-color);
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.tripbaricon {
+   transform: scale(1.3);
+   margin: 0 5px;
+}
+
+.tripsearchblock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+input[type="date"] { 
+    
+  }

@@ -1,0 +1,155 @@
+[
+    {
+      "name": "Indian Institute of Technology Gandhinagar",
+      "address": "Palaj, Gandhinagar, Gujarat 382355",
+      "description": "A premier engineering and research institute offering undergraduate, postgraduate, and doctoral programs.",
+      "phone": "+91 79 2395 2051",
+      "image": "https://example.com/iit_gandhinagar.jpg",
+      "reviews": [
+        {
+          "rating": 4.7,
+          "comment": "Excellent institute with top-notch faculty and facilities. Highly recommended for engineering education."
+        },
+        {
+          "rating": 4.5,
+          "comment": "Great learning environment. The faculty is highly knowledgeable and supportive."
+        }
+      ]
+    },
+    {
+      "name": "Pandit Deendayal Petroleum University (PDPU)",
+      "address": "Raisan, Gandhinagar, Gujarat 382421",
+      "description": "A leading university offering undergraduate, postgraduate, and doctoral programs in engineering, management, and humanities.",
+      "phone": "+91 79 2327 5060",
+      "image": "https://example.com/pdpu.jpg",
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Excellent university with a focus on research and innovation. Great campus facilities."
+        },
+        {
+          "rating": 4.3,
+          "comment": "Good academic environment. Faculty is supportive and knowledgeable."
+        }
+      ]
+    },
+    {
+      "name": "CEPT University",
+      "address": "Kasturbhai Lalbhai Campus, University Road, Navrangpura, Ahmedabad, Gujarat 380009",
+      "description": "A renowned university known for its programs in architecture, planning, design, and management.",
+      "phone": "+91 79 2630 2470",
+      "image": "https://example.com/cept_university.jpg",
+      "reviews": [
+        {
+          "rating": 4.4,
+          "comment": "Excellent university with a focus on design and planning. Faculty is highly experienced."
+        },
+        {
+          "rating": 4.2,
+          "comment": "Great learning atmosphere. The campus has excellent facilities."
+        }
+      ]
+    },
+    {
+      "name": "Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)",
+      "address": "Gandhinagar-Ahmedabad Road, Near Indroda Circle, Gandhinagar, Gujarat 382007",
+      "description": "A premier institute offering undergraduate and postgraduate programs in information and communication technology.",
+      "phone": "+91 79 3052 0000",
+      "image": "https://example.com/daiict.jpg",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "comment": "Excellent institute with a strong focus on technology and research. Faculty is highly knowledgeable."
+        },
+        {
+          "rating": 4.4,
+          "comment": "Great learning environment. Campus facilities are top-notch."
+        }
+      ]
+    },
+    {
+      "name": "Gandhinagar Institute of Technology (GIT)",
+      "address": "Nr. Vadsar Airforce Station, Via Sargasan, Gandhinagar, Gujarat 382423",
+      "description": "An engineering college offering undergraduate and postgraduate programs in various engineering disciplines.",
+      "phone": "+91 79 2327 7007",
+      "image": "https://example.com/git.jpg",
+      "reviews": [
+        {
+          "rating": 4.2,
+          "comment": "Good institute with experienced faculty. Campus infrastructure is decent."
+        },
+        {
+          "rating": 4.0,
+          "comment": "Decent learning environment. Could improve on industry exposure for students."
+        }
+      ]
+    },
+    {
+      "name": "National Institute of Fashion Technology (NIFT), Gandhinagar",
+      "address": "GH-0 Circle, Infocity Road, Gandhinagar, Gujarat 382007",
+      "description": "A premier fashion institute offering undergraduate and postgraduate programs in fashion design, technology, and management.",
+      "phone": "+91 79 2324 9602",
+      "image": "https://example.com/nift_gandhinagar.jpg",
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Excellent institute for fashion education. Faculty is highly experienced."
+        },
+        {
+          "rating": 4.3,
+          "comment": "Great learning atmosphere. Campus facilities are top-notch."
+        }
+      ]
+    },
+    {
+      "name": "Gandhinagar National Law University (GNLU)",
+      "address": "Attalika Avenue, Knowledge Corridor, Koba, Gandhinagar, Gujarat 382426",
+      "description": "A prestigious law university offering undergraduate, postgraduate, and doctoral programs in law and legal studies.",
+      "phone": "+91 79 2327 6611",
+      "image": "https://example.com/gnlu.jpg",
+      "reviews": [
+        {
+          "rating": 4.4,
+          "comment": "Excellent university for legal education. Faculty is highly knowledgeable."
+        },
+        {
+          "rating": 4.2,
+          "comment": "Great learning environment. The campus has excellent facilities."
+        }
+      ]
+    },
+    {
+      "name": "Gujarat Forensic Sciences University (GFSU)",
+      "address": "Sector 9, Near Police Bhavan, Gandhinagar, Gujarat 382007",
+      "description": "A specialized university offering undergraduate, postgraduate, and doctoral programs in forensic science and allied fields.",
+      "phone": "+91 79 2397 7412",
+      "image": "https://example.com/gfsu.jpg",
+      "reviews": [
+        {
+          "rating": 4.3,
+          "comment": "Excellent university with a focus on forensic science. Faculty is highly experienced."
+        },
+        {
+          "rating": 4.1,
+          "comment": "Good learning atmosphere. The campus has modern facilities."
+        }
+      ]
+    },
+    {
+      "name": "Gujarat Technological University (GTU)",
+      "address": "Nr. Vishwakarma Government Engineering College, Nr. Visat Three Roads, Sabarmati-Koba Highway, Chandkheda, Ahmedabad, Gujarat 382424",
+      "description": "A state university offering undergraduate, postgraduate, and doctoral programs in engineering, management, and pharmacy.",
+      "phone": "+91 79 2326 7521",
+      "image": "https://example.com/gtu.jpg",
+      "reviews": [
+        {
+          "rating": 4.2,
+          "comment": "Good university with a wide range of programs. Faculty is knowledgeable."
+        },
+        {
+          "rating": 4.0,
+          "comment": "Decent learning environment. Campus facilities could be improved."
+        }
+      ]
+    }
+]

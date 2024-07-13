@@ -1,0 +1,172 @@
+[
+    {
+      "name": "Reliance Smart",
+      "address": "Gandhinagar Highway, Sector 26, Gandhinagar, Gujarat 382028",
+      "description": "A one-stop destination for all your grocery needs, offering a wide range of products at competitive prices.",
+      "phone": "+91 79 2322 9900",
+      "image": "https://example.com/reliance_smart.jpg",
+      "reviews": [
+        {
+          "rating": 4.3,
+          "comment": "Great variety of products and excellent service. Convenient location."
+        },
+        {
+          "rating": 4.0,
+          "comment": "Good shopping experience overall. Prices are reasonable."
+        }
+      ]
+    },
+    {
+      "name": "Big Bazaar",
+      "address": "Alpha One Mall, Plot No.216, T.P. Scheme-1, Near Vaishno Devi Circle, Gandhinagar, Gujarat 382421",
+      "description": "A popular supermarket chain offering a wide range of groceries, electronics, apparel, and more.",
+      "phone": "+91 79 2324 5000",
+      "image": "https://example.com/big_bazaar.jpg",
+      "reviews": [
+        {
+          "rating": 4.2,
+          "comment": "Huge store with a variety of products. Prices are reasonable."
+        },
+        {
+          "rating": 3.8,
+          "comment": "Good place for shopping. Could improve on staff responsiveness."
+        }
+      ]
+    },
+    {
+      "name": "D Mart",
+      "address": "Plot No. 10, Near Dev Arc Mall, S.G. Road, Gandhinagar, Gujarat 382421",
+      "description": "A popular supermarket chain known for its affordable prices and a wide selection of products.",
+      "phone": "+91 79 6544 3600",
+      "image": "https://example.com/d_mart.jpg",
+      "reviews": [
+        {
+          "rating": 4.0,
+          "comment": "Affordable prices and good variety. Convenient location."
+        },
+        {
+          "rating": 3.7,
+          "comment": "Decent shopping experience. Could improve on cleanliness."
+        }
+      ]
+    },
+    {
+      "name": "Vishal Mega Mart",
+      "address": "Uma Nagar Society, Sector 11, Gandhinagar, Gujarat 382011",
+      "description": "A leading retail chain offering a wide range of products including apparel, groceries, electronics, and more.",
+      "phone": "+91 79 2324 4988",
+      "image": "https://example.com/vishal_mega_mart.jpg",
+      "reviews": [
+        {
+          "rating": 3.8,
+          "comment": "Good place for budget shopping. Has all the essentials."
+        },
+        {
+          "rating": 3.5,
+          "comment": "Average experience. Could improve on customer service."
+        }
+      ]
+    },
+    {
+      "name": "Patel Super Mart",
+      "address": "Sector 21, Gandhinagar, Gujarat 382021",
+      "description": "A local favorite for grocery shopping, offering fresh produce and a variety of household items.",
+      "phone": "+91 79 2324 7110",
+      "image": "https://example.com/patel_super_mart.jpg",
+      "reviews": [
+        {
+          "rating": 4.0,
+          "comment": "Good quality products and friendly staff. Convenient location."
+        },
+        {
+          "rating": 3.6,
+          "comment": "Decent store for everyday shopping. Prices are reasonable."
+        }
+      ]
+    },
+    {
+      "name": "Spar Hypermarket",
+      "address": "10th Floor, Alpha One Mall, Vastrapur, Ahmedabad, Gujarat 380015",
+      "description": "A large hypermarket offering a wide range of products including groceries, apparel, electronics, and more.",
+      "phone": "+91 79 6699 6400",
+      "image": "https://example.com/spar_hypermarket.jpg",
+      "reviews": [
+        {
+          "rating": 4.2,
+          "comment": "Great shopping experience. Huge selection of products."
+        },
+        {
+          "rating": 4.0,
+          "comment": "Good place for bulk shopping. Prices are competitive."
+        }
+      ]
+    },
+    {
+      "name": "Easyday Club",
+      "address": "2nd Floor, Shivshakti Complex, Sector 22, Gandhinagar, Gujarat 382022",
+      "description": "A membership-based retail store offering discounts on a wide range of products including groceries and household items.",
+      "phone": "+91 79 2321 5221",
+      "image": "https://example.com/easyday_club.jpg",
+      "reviews": [
+        {
+          "rating": 3.9,
+          "comment": "Convenient store with good discounts for members. Staff is helpful."
+        },
+        {
+          "rating": 3.7,
+          "comment": "Membership benefits are good. Could improve on product variety."
+        }
+      ]
+    },
+    {
+      "name": "Adani Mart",
+      "address": "Koba Circle, Gandhinagar, Gujarat 382007",
+      "description": "A growing retail chain offering a variety of products at affordable prices.",
+      "phone": "+91 79 2322 2000",
+      "image": "https://example.com/adani_mart.jpg",
+      "reviews": [
+        {
+          "rating": 3.8,
+          "comment": "Good shopping experience. Prices are reasonable."
+        },
+        {
+          "rating": 3.5,
+          "comment": "Decent store for everyday shopping. Could improve on cleanliness."
+        }
+      ]
+    },
+    {
+      "name": "More Supermarket",
+      "address": "Ground Floor, Near Gh-0 Circle, Sector-16, Gandhinagar, Gujarat 382016",
+      "description": "A popular supermarket chain offering a wide range of groceries, personal care products, and household items.",
+      "phone": "+91 79 2322 5999",
+      "image": "https://example.com/more_supermarket.jpg",
+      "reviews": [
+        {
+          "rating": 4.1,
+          "comment": "Great variety of products and good discounts. Convenient location."
+        },
+        {
+          "rating": 3.8,
+          "comment": "Good shopping experience overall. Prices are competitive."
+        }
+      ]
+    },
+    {
+      "name": "HyperCITY",
+      "address": "Ahmedabad One, Near Vastrapur Lake, Vastrapur, Ahmedabad, Gujarat 380015",
+      "description": "A large hypermarket offering a wide range of products including groceries, electronics, apparel, and more.",
+      "phone": "+91 79 4905 1234",
+      "image": "https://example.com/hypercity.jpg",
+      "reviews": [
+        {
+            "rating": 4.1,
+            "comment": "Great variety of products and good discounts. Convenient location."
+          },
+          {
+            "rating": 3.8,
+            "comment": "Good shopping experience overall. Prices are competitive."
+          }
+        ]
+    }
+    ]

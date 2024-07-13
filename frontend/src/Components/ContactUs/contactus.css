@@ -1,0 +1,110 @@
+.contactus-parent-con  {
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    /* height: 100vh; */
+    margin: 0;
+    padding: 0;
+
+}
+
+.contactus-con {
+    /* background-color: var(--main-web-color); */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 80%;
+    border-radius: 10px;
+    border: 5px solid var(--main-web-color);
+    box-shadow: 0px 0px 10px rgb(94, 75, 35);
+   /* background-color: red; */
+}
+
+
+.contactus {
+
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+
+  }
+
+  
+  .contactus-header {
+    margin: 0;
+    padding: 0;
+    font-size: 3rem;
+    margin-bottom: 30px;
+    color: var(--main-web-color);
+    border-bottom: 3px solid var(--main-web-color) ;
+    /* color: white; */
+  }
+  
+  .contactus-form {
+   
+    background-color: rgba(255, 165, 0 , 0.4);
+    /* background-color: var(--main-web-color); */
+    width: 80%;
+    height: 400px;
+    padding: 20px;
+    margin: 20px 0;
+  border-radius: 10px;
+  }
+  
+  .contactus, .contactus-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  
+  .contactus input, .contactus textarea, .contactus button {
+    font-size: 1.2rem;
+    width: 100%;
+    margin: 10px 0;
+    border-radius: 5px;
+    padding: 5px;
+  font-family: 'Roboto Mono', monospace;
+    border-color: var(--main-web-color);
+    /* outline: none; */
+  }
+
+  .contactus textarea {
+    overflow:auto;
+    resize:none;
+  }
+
+  
+  .contactus input {
+   height: 40px;  
+  }
+  
+  .contactus button {
+    background-color:rgba(255, 165, 0 , 0.6);
+    color: white;
+    font-size: 1.5rem;
+    height: 50px;
+  }
+
+.contactus-imgpart {
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    width: 40%;
+    height: 100%;
+
+}
+
+.contactus-imgcon {
+    /* background-color: black; */
+}
+
+  .contactus-imgcon img {
+    width: 500px;
+   
+  }

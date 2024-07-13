@@ -1,0 +1,44 @@
+.statisticbarcon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: red; */
+  /* border-top: 3px solid var(--main-web-color) ; */
+  /* border-right: 3px solid var(--main-web-color) ; */
+    margin-top: 25px;
+    font-family: cursive ;
+    width: 90%;
+}
+
+.statisticbar {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    /* padding: 20px; */
+    width: 90%;
+    /* margin: auto; */
+}
+
+.statisticbarblock {
+    border-right: 3px solid var(--main-web-color) ;
+padding: 10px;
+/* width: 100%; */
+height: 100%;
+}
+
+.shortabout {
+    grid-column: 1 / span 2;
+    text-align: left;
+    /* border-left: 3px solid var(--main-web-color) ; */
+
+}
+
+.statenum {
+    font-size: 33px;
+    color: var(--main-web-color);
+}
+
+.desnum {
+    border-right: none;
+}

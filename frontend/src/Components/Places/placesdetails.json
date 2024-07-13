@@ -1,0 +1,86 @@
+[
+    {
+        "id" : "1",
+        "title" : "Mahatma Mandir",
+        "imgurl" : "../images/mahtmamandir.jpg",
+        "Location" : "Gandhinagar",
+        "About" : "Mahatma Mandir is a convention and exhibition centre located at sector 13 C in Gandhinagar, Gujarat, India.",
+        "infourl" : "https://en.wikipedia.org/wiki/Mahatma_Mandir",
+        "directionurl" : "https://www.google.com/maps/dir//Mahatma+Mandir,+Convention+and+Exhibition+Centre+Managed+by+the+Leela,+Sector+13C,+Sector+13,+Gandhinagar,+Gujarat+382016/@23.2307655,72.5917541,13z/data=!3m2!4b1!5s0x395c2bea0c6170bd:0xaf30dffd27786cd1!4m9!4m8!1m1!4e2!1m5!1m1!1s0x395c2bea1adb7a11:0x7953d063c943066b!2m2!1d72.6329541!2d23.230692?entry=ttu" },
+    {
+        "id" : "2",
+        "title" : " Baps Akshardham ",
+        "imgurl" : "../images/Akshardham.jpg",
+        "Location" : "Gandhinagar",
+        "About" : "'Akshardham' literally means the divine abode of God.",
+        "infourl" : "https://akshardham.com/gujarat/",
+        "directionurl" : "https://www.google.com/maps/dir//BAPS+Akshardham+Temple+%7C+Gandhinagar,+J+Road,+Sector+20,+Gandhinagar,+Gujarat+382020/@23.2294392,72.6329394,13z/data=!3m1!4b1!4m9!4m8!1m1!4e2!1m5!1m1!1s0x395c2b0e0167d8e9:0x9777963dd1f06126!2m2!1d72.6741394!2d23.2293657?entry=ttu"
+    },
+    {
+        "id" : "3",
+        "title" : "Adalaj Trimandir",
+        "imgurl" : "../images/trimandir.jpg",
+        "Location" : "Adalaj | Gandhinagar",
+        "About" : "The Adalaj Trimandir is located 20 km away from the city of Ahmedabad (Gujarat), near the village of Adalaj, on the Ahmedabad-Kalol Highway.",
+        "infourl" : "https://www.trimandir.org/list-of-trimandirs/adalaj-trimandir/",
+        "directionurl" : "https://www.google.com/maps/dir//Trimandir,+Adalaj,+Trimandir+Ahmedabad-Mehsana,+Highway,+Adalaj,+Gujarat+382421/@23.178548,72.5308877,13z/data=!3m1!4b1!4m9!4m8!1m1!4e2!1m5!1m1!1s0x395c29b58d1ac38d:0x3d323013a488a4b1!2m2!1d72.5720877!2d23.1784745?entry=ttu"
+    },
+    
+    {
+        "id" : "4",
+        "title" : "Indroda Park",
+        "imgurl" : "../images/Indroda-park.jpg",
+        "Location" : "Gandhinagar",
+        "About" : "Indroda Nature Park (INP) is spread over an area of about 400 ha in Gandhinagar- the capital city of Gujarat.",
+        "infourl" : "https://geerfoundation.gujarat.gov.in/Home/Page/Indroda-Nature-Park",
+        "directionurl" : "https://www.google.com/maps/dir//Indroda+park,+5MV3%2B5F4,+Dholakuva,+Gandhinagar,+Gujarat+382421/@23.1930963,72.6125437,13z/data=!3m1!4b1!4m9!4m8!1m1!4e2!1m5!1m1!1s0x395c2bb215539a6b:0xb79ea37656e89507!2m2!1d72.6537437!2d23.1930228?entry=ttu"
+    },
+    {
+        "id" : "5",
+        "title" : "Adalaj Stepwell",
+        "imgurl" : "../images/Adalaj-stepwell.jpg",
+        "Location" : "Adalaj | Gandhinagar",
+        "About" : "Adalaj Stepwell or Rudabai Stepwell is a stepwell located in the small town of Adalaj, close to Gandhinagar city in the Indian state of Gujarat. ",
+        "infourl" : "https://en.wikipedia.org/wiki/Adalaj_Stepwell",
+        "directionurl" : "https://www.google.com/maps/dir//Adalaj+Stepwell,+Adalaj+Rd,+Adalaj,+Gujarat+382421/@23.1668561,72.539264,13z/data=!3m1!4b1!4m9!4m8!1m1!4e2!1m5!1m1!1s0x395c29dab0c5bf89:0xdb1dddc4bdbd398f!2m2!1d72.580464!2d23.1667825?entry=ttu"
+    },
+    {
+        "id" : "6",
+        "title" : "Sant Sarovar Dam",
+        "imgurl" : "../images/santdam.jpg",
+        "Location" : "Gandhinagar",
+        "About" : "Sant Sarovar Dam, Gandhinagar.",
+        "infourl" : "https://rvprints.wixsite.com/rvshutterup/single-post/2017/12/09/sant-sarovar-dam-gandhinagar",
+        "directionurl" : "https://www.google.com/maps/dir//Sant+Sarovar+Dam,+5MX7%2BP86,+Indroda,+Gandhinagar,+Gujarat+382421/@23.022505,72.5713621,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x395c2a578a50c731:0x14a0dd1ae51c4da6!2m2!1d72.6632617!2d23.1992995?entry=ttu"
+    },
+    
+    {
+        "id" : "7",
+        "title" : "Sabarmati Riverfront",
+        "imgurl" : "../images/Riverfront.jpg",
+        "Location" : "Ahmedabad",
+        "About" : "Sabarmati riverfront is a beautiful waterfront which is developed on the bank of river Sabarmati at Ahmedabad city of Gujarat state, India.",
+        "infourl" : "https://en.wikipedia.org/wiki/Sabarmati_Riverfront",
+        "directionurl" : "https://www.google.com/maps/dir//Sabarmati+Riverfront,+2HFG%2B9MJ,+Sabarmati+Riverfront+Walkway+E,+Old+City,+Lal+Darwaja,+Ahmedabad,+Gujarat+380001/@23.0235276,72.5354408,13z/data=!3m1!4b1!4m9!4m8!1m1!4e2!1m5!1m1!1s0x395e845178057517:0xf37fb13e213a6359!2m2!1d72.5766408!2d23.0234539?entry=ttu"
+    },
+    {
+        "id" : "8",
+        "title" : "Sidi Saiyyed Mosque",
+        "imgurl" : "../images/sidi-saiyed.jpg",
+        "Location" : "Ahmedabad",
+        "About" : "The Sidi Saiyyed Mosque, popularly known as Sidi Saiyyid ni Jali locally, built in 1572–73 AD (Hijri year 980), is one of the most famous mosques of Ahmedabad, a city in the state of Gujarat, India. The mosque was built by Sidi Sayyad, a Habshi nobleman, in 1572–73.",
+        "infourl" : "https://en.wikipedia.org/wiki/Sidi_Saiyyed_Mosque",
+        "directionurl" : "https://www.google.com/maps/dir//Sidi+Saiyyed+Mosque,+Bhadra+Rd,+Opposite+Electricity+House,+Old+City,+Gheekanta,+Lal+Darwaja,+Ahmedabad,+Gujarat+380001/@23.0271549,72.5398352,13z/data=!3m1!4b1!4m9!4m8!1m1!4e2!1m5!1m1!1s0x395e844fc79401b5:0x2d62f388bec1fa89!2m2!1d72.5810831!2d23.0270768?entry=ttu"
+    },
+    {
+        "id" : "9",
+        "title" : "Science City Ahmedabad",
+        "imgurl" : "../images/Sciencecity.jpg",
+        "Location" : "Science City| Ahmedabad",
+        "About" : "Gujarat Science City is a science education and entertainment centre located in Ahmedabad, Gujarat, India.",
+        "infourl" : "https://en.wikipedia.org/wiki/Gujarat_Science_City",
+        "directionurl" : "https://www.google.com/maps/dir//Science+City+Ahmedabad+/@23.0764571,72.4246937,12z/data=!3m1!4b1!4m4!4m3!1m1!4e2!1m0?entry=ttu"
+    }
+    
+
+]

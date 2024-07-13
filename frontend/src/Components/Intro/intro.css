@@ -1,0 +1,92 @@
+/* .intro {
+    color: white;
+} */
+
+/* .bgimgcon {
+ background-image: url("uabg2.jpg");
+background-position: center;
+background-size: cover;
+height: 100%;
+width: 100%;
+position: absolute;
+z-index: -3;
+filter: blur(1px);
+} */
+
+.mainBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.nametagimg {
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+
+}
+
+.nametagimg img {
+width: 200px;
+margin: 0;
+
+}
+
+.trav2 {
+    visibility: hidden;
+}
+
+.nametag h2 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+.websitename {
+    color: var(--main-web-color);
+    font-size: 6rem;
+   
+}
+
+.nametag p {
+    margin: 0;
+    padding: 0;
+}
+
+.searchbar {
+    font-size: 1.5rem;
+    width: 900px;
+    padding: 20px;
+   border: none;
+   outline: none;
+   background-color: transparent;
+
+}
+
+.searchbarcon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    border: 3px solid var(--main-web-color);
+    border-radius: 8px;
+    /* background-color: red; */
+}
+
+.searchbarcon button {
+    background: transparent;
+    border: 1px solid grey;
+    padding: 20px;
+    padding: 5px;
+    border: none;
+    outline: none;
+    background-color: var(--main-web-color);
+}
+
+.searchicon {
+    padding: 0;
+    margin: 0;
+    height: 55px;
+    color: white;
+}

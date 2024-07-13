@@ -1,0 +1,114 @@
+ [
+      {
+        "name": "Akshardham Temple",
+        "author" : "Krishna",
+        "description": "One of the most prominent landmarks of Gandhinagar, the Akshardham Temple is a sprawling complex known for its stunning architecture, intricate carvings, and serene surroundings. Dedicated to Lord Swaminarayan, the temple attracts visitors from all over the world.",
+        "location": "Sector 20, Gandhinagar, Gujarat",
+        "readtime" : 2,
+        "date" : "16 Jan 2024",
+        "image_url": "../images/akshardhamblog.jpg",
+        "rating": 4.8,
+        "reviews": 1245
+      },
+      {
+        "name": "Indroda Nature Park",
+        "author" : "Nilesh ",
+        "description": "Spread across vast acres of land, the Indroda Nature Park is a paradise for nature lovers and wildlife enthusiasts. It boasts of a rich biodiversity, including a fossil park, botanical garden, and a sanctuary for various species of animals and birds.",
+        "location": "Indroda Village, Gandhinagar, Gujarat",
+        "readtime" : 3,
+        "date" : "22 Jan 2024",
+        "image_url": "../images/indrodablog.jpg",
+        "rating": 4.5,
+        "reviews": 987
+      },
+      {
+        "name": "Sarita Udhyan",
+        "author" : "Ajay",
+        "description": "A beautiful garden located in the heart of Gandhinagar, Sarita Udhyan is a popular spot for picnics, leisurely walks, and family outings. With its well-maintained lawns, colorful flower beds, and serene ambiance, it offers a refreshing escape from the city's hustle and bustle.",
+        "location": "Sector 9, Gandhinagar, Gujarat",
+        "readtime" : 2,
+        "date" : "03 Feb 2024",
+        "image_url": "../images/saritablog.jpg",
+        "rating": 4.3,
+        "reviews": 754
+      },
+      {
+        "name": "Sabarmati Ashram",
+        "author" : "Kavish",
+        "description": "Also known as the Gandhi Ashram, Sabarmati Ashram is a significant historical site located on the banks of the Sabarmati River in Ahmedabad. It served as Mahatma Gandhi's residence and base for his non-violent struggle for India's independence. Today, it is a museum and memorial dedicated to Gandhi's life and teachings.",
+        "location": "Sabarmati, Ahmedabad, Gujarat",
+        "readtime" : 4,
+        "date" : "27 Feb 2024",
+        "image_url": "../images/sabarmatiblog.jpg",
+        "rating": 4.7,
+        "reviews": 1567
+      },
+      {
+        "name": "Kankaria Lake",
+        "author" : "Shivam ",
+        "description": "A man-made lake in the heart of Ahmedabad, Kankaria Lake is a popular recreational spot offering a range of activities such as boating, toy train rides, balloon rides, and a zoo. It is surrounded by a beautifully landscaped promenade, making it a favorite destination for locals and tourists alike.",
+        "location": "Maninagar, Ahmedabad, Gujarat",
+        "date" : "10 Mar 2024",
+        "image_url": "../images/kankariablog.jpg",
+        "rating": 4.6,
+        "reviews": 1890
+      },
+      {
+        "name": "Adalaj Stepwell",
+        "author" : "Akshay",
+        "description": "An architectural marvel located in the outskirts of Ahmedabad, the Adalaj Stepwell is a five-story stepwell built in the 15th century. It is renowned for its intricate carvings, elegant architecture, and the unique blend of Hindu and Islamic styles. The stepwell served as a resting place for travelers and pilgrims in ancient times.",
+        "location": "Adalaj, Ahmedabad, Gujarat",
+        "readtime" : 5,
+        "date" : "19 Mar 2024",
+        "image_url": "../images/adalajblog.jpg",
+        "rating": 4.8,
+        "reviews": 1345
+      },
+      
+      {
+        "name": "Sidi Saiyyed Mosque",
+        "author" : "Karm",
+        "description": "A renowned mosque in Ahmedabad, Sidi Saiyyed Mosque is known for its intricate stone lattice work, particularly the famous 'Tree of Life' motif carved on its windows. Built in 1573, the mosque is an architectural masterpiece that showcases the rich heritage of Islamic art and craftsmanship in Gujarat.",
+        "location": "Lal Darwaja, Ahmedabad, Gujarat",
+        "readtime" : 3,
+        "date" : "25 Apr 2024",
+        "image_url": "../images/sidiblog.jpg",
+        "rating": 4.7,
+        "reviews": 1456
+      },
+     
+      {
+        "name": "Science City",
+        "author" : "Deep",
+        "description": "An educational and entertainment complex located in Ahmedabad, Science City is a popular destination for families and school groups. It features interactive science exhibits, an IMAX 3D theater, a planetarium, and an amphitheater for science shows and demonstrations. The aim of Science City is to promote scientific awareness and curiosity among visitors of all ages.",
+        "location": "Sola, Ahmedabad, Gujarat",
+        "date" : "05 Apr 2024",
+        "image_url": "../images/sciencecityblog.jpg",
+        "rating": 4.5,
+        "reviews": 1765
+      },
+      {
+        "name": "Vastrapur Lake",
+        "author" : "Nik",
+        "description": "Located in the western part of Ahmedabad, Vastrapur Lake is a serene water body surrounded by lush greenery and jogging tracks. It is a popular spot among locals for morning walks, picnics, and boating activities. The lake also hosts various cultural events and festivals throughout the year.",
+        "location": "Vastrapur, Ahmedabad, Gujarat",
+        "readtime" : 2,
+        "date" : "31 Mar 2024",
+        "image_url": "../images/adalajblog.jpg",
+        "rating": 4.4,
+        "reviews": 1098
+      },
+      {
+        "name": "Gandhi Smarak Sangrahalaya",
+        "author" : "Sunny",
+        "description": "Located near Sabarmati Ashram in Ahmedabad, Gandhi Smarak Sangrahalaya is a museum dedicated to Mahatma Gandhi's life, philosophy, and contributions to India's freedom struggle. The museum houses a rich collection of photographs, letters, personal belongings, and artifacts associated with Gandhi, offering visitors a glimpse into his extraordinary life and legacy.",
+        "location": "Sabarmati, Ahmedabad, Gujarat",
+        "readtime" : 4,
+        "date" : "15 Apr 2024",
+        "image_url": "../images/sabarmatiblog.jpg",
+        "rating": 4.6,
+        "reviews": 1220
+      }
+    ]
+  
+  

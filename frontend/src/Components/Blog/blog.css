@@ -1,0 +1,74 @@
+.blogcon {
+    width: 70%;
+margin: auto;
+
+
+
+}
+
+.blog {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 0;
+    background-color: var(--main-web-color);
+    color: white;
+padding: 20px;
+    border-radius: 10px;
+}
+
+.bloghead {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+}
+
+.blogauth {
+    font-weight: bold;
+}
+
+.blog h2{
+    padding: 0;
+    margin: 0;
+}
+
+
+.blogoverview {
+    width: 70%;
+    padding: 0 10px;
+    margin-left: 10px;
+}
+
+
+
+.blogimg img {
+    width: 300px;
+    height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+.blogshortdetails {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.blogbtn {
+    background-color: white;
+    color: var(--main-web-color);
+    outline: none;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}

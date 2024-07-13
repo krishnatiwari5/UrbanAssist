@@ -1,0 +1,175 @@
+[
+    {
+      "name": "Apollo Hospitals",
+      "address": "Plot No. 1A, Sector 1A, Gandhinagar, Gujarat 382001",
+      "description": "A renowned hospital offering comprehensive healthcare services and state-of-the-art facilities.",
+      "phone": "+91 79 6670 1000",
+      "image": "https://example.com/apollo_hospitals.jpg",
+      "reviews": [
+        {
+          "rating": 4.7,
+          "comment": "Exceptional healthcare services. The staff is highly skilled and caring."
+        },
+        {
+          "rating": 4.5,
+          "comment": "Top-notch facilities. Highly recommended for medical treatment."
+        }
+      ]
+    },
+    {
+      "name": "Sterling Hospital",
+      "address": "Gandhinagar - Ambaji Road, Near Gujarat High Court, Sola, Ahmedabad, Gujarat 380060",
+      "description": "A leading multispecialty hospital known for its advanced medical treatments and compassionate care.",
+      "phone": "+91 79 2766 6767",
+      "image": "https://example.com/sterling_hospital.jpg",
+      "reviews": [
+        {
+          "rating": 4.4,
+          "comment": "Excellent hospital with skilled doctors. The facilities are top-notch."
+        },
+        {
+          "rating": 4.2,
+          "comment": "Good experience. The staff was helpful and the medical care was commendable."
+        }
+      ]
+    },
+    {
+      "name": "Zydus Hospitals",
+      "address": "Near Sola Bridge, S.G. Highway, Thaltej, Ahmedabad, Gujarat 380054",
+      "description": "A reputed hospital offering a wide range of medical specialties and cutting-edge technology.",
+      "phone": "+91 79 6619 0200",
+      "image": "https://example.com/zydus_hospitals.jpg",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "comment": "Outstanding hospital with excellent medical facilities. The doctors are highly skilled."
+        },
+        {
+          "rating": 4.3,
+          "comment": "Great experience. The hospital staff was very caring and attentive."
+        }
+      ]
+    },
+    {
+      "name": "Aditya Birla Memorial Hospital",
+      "address": "Aditya Birla Hospital Marg, Chinchwad, Pune, Maharashtra 411033",
+      "description": "A modern hospital offering advanced medical care and personalized treatment.",
+      "phone": "+91 20 3071 7616",
+      "image": "https://example.com/aditya_birla_memorial_hospital.jpg",
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Great hospital with skilled doctors. The facilities are world-class."
+        },
+        {
+          "rating": 4.2,
+          "comment": "Highly recommended. Received excellent care during my treatment."
+        }
+      ]
+    },
+    {
+      "name": "Narayana Multispeciality Hospital",
+      "address": "Plot No. 3201/A, Off SG Highway, Near Nirma University, Chandlodia, Ahmedabad, Gujarat 382481",
+      "description": "A renowned hospital known for its expertise in various medical specialties and advanced treatments.",
+      "phone": "+91 79 7111 1111",
+      "image": "https://example.com/narayana_multispeciality_hospital.jpg",
+      "reviews": [
+        {
+          "rating": 4.3,
+          "comment": "Excellent hospital with a skilled medical team. The facilities are top-notch."
+        },
+        {
+          "rating": 4.0,
+          "comment": "Good experience overall. The doctors were attentive and caring."
+        }
+      ]
+    },
+    {
+      "name": "CIMS Hospital",
+      "address": "Off Science City Road, Sola, Ahmedabad, Gujarat 380060",
+      "description": "A leading multispecialty hospital providing advanced medical care and treatment.",
+      "phone": "+91 79 2771 2771",
+      "image": "https://example.com/cims_hospital.jpg",
+      "reviews": [
+        {
+          "rating": 4.4,
+          "comment": "Great hospital with skilled doctors. Received excellent treatment here."
+        },
+        {
+          "rating": 4.1,
+          "comment": "Overall good experience. The staff was courteous and the facilities were good."
+        }
+      ]
+    },
+    {
+      "name": "Shalby Hospitals",
+      "address": "Opp. Karnavati Club, Near S.G. Highway, Ahmedabad, Gujarat 380015",
+      "description": "A reputed hospital offering a wide range of medical services and specialized treatments.",
+      "phone": "+91 79 4020 3000",
+      "image": "https://example.com/shalby_hospitals.jpg",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "comment": "Outstanding hospital with skilled doctors. Received excellent care during my treatment."
+        },
+        {
+          "rating": 4.3,
+          "comment": "Highly recommended. The hospital staff was very helpful and caring."
+        }
+      ]
+    },
+    {
+      "name": "Columbia Asia Hospital",
+      "address": "Hebatpur Road, Thaltej, Ahmedabad, Gujarat 380059",
+      "description": "A modern hospital equipped with advanced medical technology and experienced medical professionals.",
+      "phone": "+91 79 3989 8989",
+      "image": "https://example.com/columbia_asia_hospital.jpg",
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Great hospital with excellent facilities. The medical staff is very competent."
+        },
+        {
+          "rating": 4.2,
+          "comment": "Good experience overall. The treatment was effective."
+        }
+      ]
+    },
+    {
+      "name": "HCG Hospitals",
+      "address": "Near Sola Bridge, Sarkhej - Gandhinagar Hwy, Thaltej, Ahmedabad, Gujarat 380054",
+      "description": "A specialized cancer care hospital known for its advanced treatment options and compassionate care.",
+      "phone": "+91 79 3091 0900",
+      "image": "https://example.com/hcg_hospitals.jpg",
+      "reviews": [
+        {
+          "rating": 4.7,
+          "comment": "Exceptional cancer care hospital. The medical staff is highly skilled and supportive."
+        },
+        {
+          "rating": 4.4,
+          "comment": "Received top-notch treatment here. Highly recommend for cancer care."
+        }
+      ]
+    },
+    {
+      "name": "Sanjivani Super Speciality Hospitals",
+      "address": "Ambaji Road, Near Vishwa Karma Temple, Gandhinagar, Gujarat 382421",
+      "description": "A leading super specialty hospital providing advanced medical care and treatment.",
+      "phone": "+91 79 3091 0900",
+      "image": "https://example.com/hcg_hospitals.jpg",
+      "reviews": [
+        {
+          "rating": 4.7,
+          "comment": "Exceptional cancer care hospital. The medical staff is highly skilled and supportive."
+        },
+        {
+          "rating": 4.4,
+          "comment": "Received top-notch treatment here. Highly recommend for cancer care."
+        }
+      ]
+
+        
+    }
+]
+  

@@ -1,0 +1,12 @@
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+button:hover {
+  background-color: blue;
+}

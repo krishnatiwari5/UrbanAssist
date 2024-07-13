@@ -1,0 +1,179 @@
+[
+    {
+      "name": "Hotel Cambay Grand",
+      "away" : "2.3",
+      "direction" : "https://www.google.com/maps/dir/23.0696906,72.6550562/Cambay+Grand+Ahmedabad,+Gulab+Tower+Rd,+Near+PERD+Centre,+Thaltej,+Ahmedabad,+Gujarat+380054/@23.0623213,72.5478561,13z/data=!3m1!4b1!4m21!1m11!3m10!1s0x395e83550f8158df:0x779e13f1733e63bd!2sCambay+Grand+Ahmedabad!5m3!1s2024-04-28!4m1!1i2!8m2!3d23.0589646!4d72.5231565!16s%2Fg%2F12cnqtfqf!4m8!1m1!4e1!1m5!1m1!1s0x395e83550f8158df:0x779e13f1733e63bd!2m2!1d72.5231565!2d23.0589646?entry=ttu",
+      "address": "Plot No X-22, 23 & 24, GIDC, Sector 25, Gandhinagar, Gujarat 382044",
+      "description": "A luxurious hotel offering comfortable accommodations and modern amenities.",
+      "starting_price": "INR 2,500",
+      "website" : "www.hotel.com",
+      "phone": "+91 79 6677 7000",
+      "image": "../images/hotel1.jpg",
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Great experience! The rooms were spacious and clean. The staff was very courteous and helpful."
+        },
+        {
+          "rating": 4.0,
+          "comment": "Nice hotel with good facilities. The food at the restaurant was delicious."
+        }
+      ]
+    },
+    {
+      "name": "Fortune Inn Haveli",
+      "away" : "3.3",
+      "direction" : "https://www.google.com/maps/dir/23.0696906,72.6550562/Fortune+Inn+Haveli,+Gandhinagar+-+Member+ITC's+hotel+group,+Sector+11,+Gandhinagar,+Gujarat/@23.1437426,72.6514023,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x395c2bb1c397a5ff:0x4a09cc187f53710b!2m2!1d72.6493984!2d23.2172331?entry=ttu",
+      "address": "Plot No. 235, Sector 11, Gandhinagar, Gujarat 382011",
+      "description": "A contemporary hotel with elegant rooms and excellent dining options.",
+      "starting_price": "INR 3,000",
+      "phone": "+91 79 3988 4444",
+      "image": "../images/hotel2.jpg",
+      "reviews": [
+        {
+          "rating": 4.2,
+          "comment": "Enjoyed my stay here. The room was comfortable and the staff was attentive."
+        },
+        {
+          "rating": 3.8,
+          "comment": "Decent hotel. Could improve on cleanliness."
+        }
+      ]
+    },
+    {
+      "name": "Platinum Inn",
+      "away" : "4.3",
+      "direction" : "https://www.google.com/maps/dir/23.0696906,72.6550562/Hotel+Hillton+Inn,+DA+IICT+Rd,+Infocity,+Gandhinagar,+Gujarat+382421/@23.127681,72.6510837,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x395c2a3d0ed1df07:0xcf51741fbbe3492!2m2!1d72.6291176!2d23.1849884?entry=ttu",
+      "address": "Opposite Infocity, Kudasan, Gandhinagar, Gujarat 382421",
+      "description": "A budget-friendly hotel offering comfortable stays and basic amenities.",
+      "starting_price": "INR 1,500",
+      "phone": "+91 79 2329 7373",
+      "image": "../images/hotel3.jpg",
+      "reviews": [
+        {
+          "rating": 3.7,
+          "comment": "Value for money. Rooms were clean and staff was friendly."
+        },
+        {
+          "rating": 3.5,
+          "comment": "Average hotel. Could use some refurbishment."
+        }
+      ]
+    },
+    {
+      "name": "Hotel The Grand Pritam",
+      "away" : "4.8",
+      "direction" : "",
+      "address": "Plot No:301, Sector:28, Gandhinagar, Gujarat 382028",
+      "description": "An upscale hotel known for its luxurious accommodations and top-notch service.",
+      "starting_price": "INR 4,000",
+      "phone": "+91 79 2324 6222",
+      "image": "../images/hotel5.jpg",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "comment": "Absolutely fantastic! The rooms were luxurious and the staff went above and beyond to make our stay memorable."
+        },
+        {
+          "rating": 4.5,
+          "comment": "Highly recommend this hotel. Great service and amenities."
+        }
+      ]
+    },
+    {
+      "name": "Hotel Isher International",
+      "away" : "5.1",
+      "direction" : "",
+      "address": "Sector 26, Nr. Hanuman Mandir, Gandhinagar, Gujarat 382026",
+      "description": "A cozy hotel offering warm hospitality and affordable rooms.",
+      "starting_price": "INR 1,200",
+      "phone": "+91 79 2328 1391",
+      "image": "../images/hotel6.jpg",
+      "reviews": [
+        {
+          "rating": 3.9,
+          "comment": "Pleasant stay. Rooms were clean and staff was friendly."
+        },
+        {
+          "rating": 4.0,
+          "comment": "Good value for money. No complaints."
+        }
+      ]
+    },
+    {
+      "name": "Hotel Midway Residency",
+      "away" : "5.3",
+      "address": "2nd Floor, Amar Complex, Near Sachivalay, Sector-14, Gandhinagar, Gujarat 382014",
+      "description": "A centrally located hotel offering convenient access to major attractions.",
+      "starting_price": "INR 1,800",
+      "phone": "+91 79 2324 2274",
+      "image": "../images/hotel7.jpg",
+      "reviews": [
+        {
+          "rating": 3.6,
+          "comment": "Decent hotel. Convenient location."
+        },
+        {
+          "rating": 3.9,
+          "comment": "Comfortable stay. Could improve on breakfast options."
+        }
+      ]
+    },
+    {
+      "name": "Treebo Trend Skylon Hotel",
+      "away" : "5.8",
+      "address": "Plot No 36, Sector 28, Near Pramukh Arcade, Gandhinagar, Gujarat 382028",
+      "description": "A modern hotel with well-appointed rooms and a rooftop restaurant.",
+      "starting_price": "INR 2,800",
+      "phone": "+91 93284 88251",
+      "image": "../images/hotel8.jpg",
+      "reviews": [
+        {
+          "rating": 4.2,
+          "comment": "Enjoyed my stay here. The room was clean and comfortable."
+        },
+        {
+          "rating": 4.0,
+          "comment": "Nice hotel. The rooftop restaurant has a great view."
+        }
+      ]
+    },
+    {
+      "name": "Hotel Berlin",
+      "away" : "6.1",
+      "address": "108, 1st Floor, Riddhi Siddhi Complex, Sector 8, Gandhinagar, Gujarat 382007",
+      "description": "A budget-friendly hotel offering comfortable accommodations.",
+      "starting_price": "INR 1,000",
+      "phone": "+91 79 2322 0994",
+      "image": "../images/hotel9.jpg",
+      "reviews": [
+        {
+          "rating": 3.5,
+          "comment": "Affordable stay. Rooms were basic but clean."
+        },
+        {
+          "rating": 3.2,
+          "comment": "Decent for the price. Don't expect luxury."
+        }
+      ]
+    },
+    {
+      "name": "Hotel Ashooka Inn",
+      "away" : "6.4",
+      "address": "B-54, Electronic Estate, Sector 25, Gandhinagar, Gujarat 382024",
+      "description": "A simple yet comfortable hotel ideal for budget-conscious travelers.",
+      "starting_price": "INR 1,300",
+      "phone": "+91 79 2328 2111",
+      "image": "../images/hotel10.jpg",
+      "reviews": [
+        {
+          "rating": 3.8,
+          "comment": "Good value for money. Clean rooms."
+        },
+        {
+          "rating": 3.5,
+  "comment": "Decent hotel. Could use some updates"
+        }
+    ]
+}
+]  

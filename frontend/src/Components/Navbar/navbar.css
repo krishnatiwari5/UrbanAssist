@@ -1,0 +1,152 @@
+.navbarcon {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+
+
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: 'Roboto Serif', serif;
+    font-weight: 500;
+}
+
+
+
+.nameloc{
+text-align: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+.nameloc p {
+    width: fit-content;
+    margin: 2px 0;
+    border-bottom: 2px solid var(--main-web-color);
+ 
+}
+
+.websiteName {
+    color: var(--main-web-color);
+    font-size: 3rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.navlist {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navlist li {
+    margin : 0 18px;
+    position: relative;
+    padding: 2px;
+/* border-bottom: 2px solid orange; */
+   
+    
+}
+
+.navlist li:hover ::after,
+.navlist li:focus ::after {
+    transform: scaleX(1);
+}
+
+.navlist li a:hover {
+    color: brown;
+}
+
+.navlist li ::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2.5px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: brown;
+    transition: transform 300ms ease-in-out;
+    transform-origin: center;
+    transform: scaleX(0);
+}
+
+
+.registration {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+.registration button {
+    margin: 0 20px;
+    background-color: var(--main-web-color);
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+}
+
+.locicon {
+    font-weight: bold;
+    
+}
+
+.businessicon {
+    transform: scale(1.4);
+    margin: 0 5px 0 0;
+}
+
+.userLogincon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* background-color: red; */
+    margin-left: 15px;
+}
+
+.userLogincon h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.userLoginicon {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    width: 50px;
+    height: 30px;
+    color: var(--main-web-color);
+  
+}
+
+
+
+.hidden_option {
+    display: none;
+    visibility: hidden;
+}
+
+.activeLink {
+  
+    color: brown;
+}
+
+
+
+button:hover {
+    background-color: blue;
+  }

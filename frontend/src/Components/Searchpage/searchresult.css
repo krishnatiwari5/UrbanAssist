@@ -1,0 +1,119 @@
+
+.sresultimgcon {
+    display: flex;
+}
+
+.sresultcon {
+    width:100%;
+    margin: 10px 0;
+    /* background-color: brown; */
+}
+
+
+
+.sresult {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.srinfo, .srrate {
+    /* height: 110px; */
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: space-between;
+    /* background-color: cyan; */
+}
+
+.sresult h3, .sresult p {
+    margin: 0;
+    margin-bottom: 5px;
+    font-size: 1rem;
+}
+
+.sresult p {
+    color: grey;
+}
+
+.rname {
+    margin-bottom: 20px;
+    font-size: 1rem;
+}
+
+.radd {
+    margin-top: 10px;
+}
+
+.srprice {
+    margin-bottom: 30px;
+    font-size: 1rem;
+
+}
+
+p.raddadd {
+    padding-right: 10px;
+}
+
+.srimg {
+    width: 200px;
+}
+
+.srinforatecon {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.srinforatecon button {
+    margin:10px 10px 0 0;
+}
+
+.sresult button {
+    background-color: var(--main-web-color);
+    color: white;
+    padding: 3px;
+    border: 2px solid rgb(247, 194, 194);
+    outline: none;
+    border-radius: 5px;
+}
+
+.srinfoicon {
+    transform: scale(1.5);
+    margin: 0 20px;
+}
+
+.moreinfobtn {
+    width: max-content;
+}
+
+.pagination {
+    padding: 10px;
+    margin: 15px 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .pagination > span{
+    padding: 15px 20px;
+    border: 1px solid var(--main-web-color);
+    cursor: pointer;
+  }
+  
+  .pagination__disable{
+    opacity: 0;
+  }
+  
+  .pagination__selected{
+    background-color: var(--main-web-color);
+    color: white;
+  }
+
+
+  button:hover {
+    background-color: blue;
+    color: white;
+  }

@@ -1,0 +1,157 @@
+[
+    {
+      "name": "City Gold Cinema",
+      "address": "City Pulse Mall, Sector 27, Gandhinagar, Gujarat 382028",
+      "description": "A popular multiplex cinema featuring the latest Bollywood and Hollywood releases.",
+      "phone": "+91 79 2324 2525",
+      "image": "https://example.com/city_gold_cinema.jpg",
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "Great cinema experience. Comfortable seats and excellent sound quality."
+        },
+        {
+          "rating": 4.3,
+          "comment": "Good selection of movies and reasonable ticket prices."
+        }
+      ]
+    },
+    {
+      "name": "PVR Cinemas",
+      "address": "Alpha One Mall, Plot No. 216, T.P. Scheme 1, Near Vaishnodevi Circle, Gandhinagar, Gujarat 382421",
+      "description": "A well-known cinema chain offering a premium movie-watching experience with state-of-the-art facilities.",
+      "phone": "+91 79 4120 7862",
+      "image": "https://example.com/pvr_cinemas.jpg",
+      "reviews": [
+        {
+          "rating": 4.6,
+          "comment": "Excellent cinema with great picture and sound quality. Comfortable seating."
+        },
+        {
+          "rating": 4.4,
+          "comment": "Good movie selection and friendly staff. Overall enjoyable experience."
+        }
+      ]
+    },
+    {
+      "name": "INOX Cinemas",
+      "address": "2nd Floor, Near Sargasan Cross Road, Infocity, Gandhinagar, Gujarat 382421",
+      "description": "A leading multiplex chain offering the latest blockbusters in a modern and comfortable setting.",
+      "phone": "+91 79 6600 2430",
+      "image": "https://example.com/inox_cinemas.jpg",
+      "reviews": [
+        {
+          "rating": 4.4,
+          "comment": "Great cinema with comfortable seating and excellent audio-visual quality."
+        },
+        {
+          "rating": 4.2,
+          "comment": "Good movie-watching experience overall. Clean premises and good service."
+        }
+      ]
+    },
+    {
+      "name": "Cinepolis Cinemas",
+      "address": "3rd Floor, GH-0 Circle, S.G. Highway, Infocity, Gandhinagar, Gujarat 382421",
+      "description": "An international cinema chain known for its luxury seating and premium movie-viewing experience.",
+      "phone": "+91 79 6160 1201",
+      "image": "https://example.com/cinepolis_cinemas.jpg",
+      "reviews": [
+        {
+          "rating": 4.7,
+          "comment": "Amazing cinema experience. Comfortable seats and great audio-visual quality."
+        },
+        {
+          "rating": 4.5,
+          "comment": "Top-notch service and a good selection of movies. Highly recommended."
+        }
+      ]
+    },
+    {
+      "name": "Carnival Cinemas",
+      "address": "3rd Floor, 2nd Avenue, Chandkheda, Ahmedabad, Gujarat 382424",
+      "description": "A popular cinema chain offering a wide range of movies and a comfortable movie-watching experience.",
+      "phone": "+91 79 7160 2576",
+      "image": "https://example.com/carnival_cinemas.jpg",
+      "reviews": [
+        {
+          "rating": 4.3,
+          "comment": "Good cinema with comfortable seating. Enjoyable movie experience."
+        },
+        {
+          "rating": 4.0,
+          "comment": "Reasonable ticket prices and good movie selection. Clean premises."
+        }
+      ]
+    },
+    {
+      "name": "Miraj Cinemas",
+      "address": "2nd Floor, Vishal Mega Mart, 1, Infocity, Gandhinagar, Gujarat 382421",
+      "description": "A cinema chain known for its comfortable seating and a wide range of movie options.",
+      "phone": "+91 79 7181 2345",
+      "image": "https://example.com/miraj_cinemas.jpg",
+      "reviews": [
+        {
+          "rating": 4.2,
+          "comment": "Comfortable cinema with good picture and sound quality. Friendly staff."
+        },
+        {
+          "rating": 4.0,
+          "comment": "Enjoyable movie experience overall. Clean and well-maintained premises."
+        }
+      ]
+    },
+    {
+      "name": "Cinemax",
+      "address": "2nd Floor, Silver Plaza, Near GH-0 Circle, Infocity, Gandhinagar, Gujarat 382421",
+      "description": "A popular cinema chain offering the latest movies and a comfortable movie-watching experience.",
+      "phone": "+91 79 3245 7890",
+      "image": "https://example.com/cinemax.jpg",
+      "reviews": [
+        {
+          "rating": 4.4,
+          "comment": "Great cinema experience. Comfortable seating and good audio-visual quality."
+        },
+        {
+          "rating": 4.2,
+          "comment": "Good selection of movies and reasonable ticket prices. Enjoyable experience."
+        }
+      ]
+    },
+    {
+      "name": "Rajhans Cinemas",
+      "address": "3rd Floor, Devarc Mall, Near Wide Angle Cinema, S.G. Highway, Gandhinagar, Gujarat 382421",
+      "description": "A cinema chain known for its spacious theaters and a wide range of movie options.",
+      "phone": "+91 79 7123 4567",
+      "image": "https://example.com/rajhans_cinemas.jpg",
+      "reviews": [
+        {
+          "rating": 4.3,
+          "comment": "Comfortable cinema with good picture and sound quality. Enjoyable movie experience."
+        },
+        {
+          "rating": 4.1,
+          "comment": "Reasonable ticket prices and good service. Clean premises."
+        }
+      ]
+    },
+    {
+      "name": "Shree Balaji Cinemas",
+      "address": "2nd Floor, City Mall, Sector 1, Gandhinagar, Gujarat 382028",
+      "description": "A local favorite for movie-watching, offering a comfortable cinema experience.",
+      "phone": "+91 79 7123 4567",
+      "image": "https://example.com/shree_balaji_cinemas.jpg",
+      "reviews": [
+        {
+          "rating": 4.2,
+          "comment": "Good cinema with comfortable seating and decent audio-visual quality."
+        },
+        {
+          "rating": 4.0,
+          "comment": "Enjoyable movie experience overall. Clean premises and friendly staff."
+        }
+      ]
+    }
+
+]
+  
